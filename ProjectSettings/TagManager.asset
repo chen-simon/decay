@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Corpse
+  - Level
+  - Ladder
+  - Cover
+  - Inspectable
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Entities
+  - World
+  - Uninteractable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1851420765
+    locked: 0
+  - name: Decals
+    uniqueID: 1896094243
+    locked: 0
+  - name: Ladder
+    uniqueID: 1843096797
+    locked: 0
+  - name: Gradients
+    uniqueID: 3956037109
+    locked: 0
+  - name: Fire
+    uniqueID: 2685428259
+    locked: 0
+  - name: Player
+    uniqueID: 1043810855
+    locked: 0
+  - name: Entities
+    uniqueID: 3316693351
+    locked: 0
+  - name: Props
+    uniqueID: 2978457343
+    locked: 0
+  - name: Level
+    uniqueID: 2551766991
+    locked: 0
+  - name: Indicator
+    uniqueID: 552347365
+    locked: 0
+  - name: Glint
+    uniqueID: 1080771921
+    locked: 0
+  - name: OL
+    uniqueID: 1985730405
+    locked: 0

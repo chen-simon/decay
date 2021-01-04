@@ -1,0 +1,307 @@
+fileFormatVersion: 2
+guid: 050809ed4841bc345821efd2b47e31cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1936728267820466519
+    second: decal_misc_large_0
+  - first:
+      213: 5773434436439764533
+    second: decal_misc_large_1
+  - first:
+      213: 2911325318431451095
+    second: decal_misc_large_2
+  - first:
+      213: -3036498247268546925
+    second: decal_misc_large_3
+  - first:
+      213: 9167973580040033452
+    second: decal_misc_large_0
+  - first:
+      213: -981307272052803521
+    second: decal_misc_large_1
+  - first:
+      213: -330795086446217379
+    second: decal_misc_large_2
+  - first:
+      213: -2591154807158350406
+    second: decal_misc_large_4
+  - first:
+      213: 335387749607061207
+    second: decal_misc_large_5
+  - first:
+      213: 7052847529427982949
+    second: decal_misc_large_6
+  - first:
+      213: -5599687557644996948
+    second: decal_misc_large_7
+  - first:
+      213: 719043549836559365
+    second: decal_misc_large_8
+  - first:
+      213: 7777376585838588292
+    second: decal_misc_large_9
+  - first:
+      213: -4103156744777766844
+    second: decal_misc_large_10
+  - first:
+      213: -5631263388367352978
+    second: decal_misc_large_11
+  - first:
+      213: -1988911251260778767
+    second: decal_misc_large_12
+  - first:
+      213: 7601470018023574312
+    second: decal_misc_large_13
+  - first:
+      213: 2768255604380613187
+    second: decal_misc_large_14
+  - first:
+      213: -7304417502892611886
+    second: decal_misc_large_15
+  - first:
+      213: 969923002082134112
+    second: decal_misc_large_16
+  - first:
+      213: -7346287474776150497
+    second: decal_misc_large_17
+  - first:
+      213: 2409131121987493393
+    second: decal_misc_large_18
+  - first:
+      213: -6171690447966158394
+    second: decal_misc_large_19
+  - first:
+      213: 620283418959149649
+    second: decal_misc_large_20
+  - first:
+      213: 3168674577834083590
+    second: decal_misc_large_21
+  - first:
+      213: -2376844997152440817
+    second: decal_misc_large_22
+  - first:
+      213: 1548376251604582774
+    second: decal_misc_large_23
+  - first:
+      213: 6758663076584185910
+    second: decal_misc_large_24
+  - first:
+      213: 6903232632170257024
+    second: decal_misc_large_25
+  - first:
+      213: 5433027822367986559
+    second: decal_misc_large_26
+  - first:
+      213: -3040134333123264991
+    second: decal_misc_large_27
+  - first:
+      213: -3351231652759315521
+    second: decal_misc_large_28
+  - first:
+      213: -6683361941738318856
+    second: decal_misc_large_29
+  - first:
+      213: -1488932602277280432
+    second: decal_misc_large_30
+  - first:
+      213: -8211607497031685137
+    second: decal_misc_large_31
+  - first:
+      213: -2080242313379007416
+    second: decal_misc_large_32
+  - first:
+      213: 69947568602712223
+    second: decal_misc_large_33
+  - first:
+      213: -4957385219341705892
+    second: decal_misc_large_34
+  - first:
+      213: -6719699665144757264
+    second: decal_misc_large_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: decal_misc_large_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4d374a56f2b3f70800000000000000
+      internalID: 9167973580040033452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal_misc_large_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38f8c93c32b162f0800000000000000
+      internalID: -981307272052803521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal_misc_large_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57bdea1f97c86bf0800000000000000
+      internalID: -330795086446217379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: decal_misc_large_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3964672aee03cd5d0800000000000000
+      internalID: -3036498247268546925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
