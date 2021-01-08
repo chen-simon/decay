@@ -287,6 +287,7 @@ public class PlayerController : MonoBehaviour {
 
     GameObject SpawnCorpse() {
         GameObject newCorpse = Instantiate(corpseObject, transform.position - new Vector3(0, 0.5f, 0), Quaternion.identity, corpses);
+        newCorpse.GetComponent<Corpse>().id = corpse.id;
         newCorpse.GetComponent<Corpse>().doors = corpse.doors;
         newCorpse.GetComponent<Corpse>().corpses = corpse.corpses;
         newCorpse.GetComponent<SpriteRenderer>().flipX = spriteRenderer.flipX;
